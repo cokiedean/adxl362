@@ -13,6 +13,9 @@
  Modified May 2013
  by Jonathan Ruiz de Garibay
  
+ Converted for Spark Core/Spark Internet Button by Gregory Fenton
+ http://labby.co.uk
+
  */ 
 #include "application.h"
 #include "adxl362.h"

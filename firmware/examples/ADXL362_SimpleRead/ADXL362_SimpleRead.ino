@@ -31,7 +31,7 @@ int16_t XValue, YValue, ZValue, Temperature;
 void setup(){
   
   Serial.begin(9600);
-  xl.begin(10);                   // Setup SPI protocol, issue device soft reset
+  xl.begin(SS);                   // Setup SPI protocol, issue device soft reset
   xl.beginMeasure();              // Switch ADXL362 to measure mode  
 	
   Serial.println("Start Demo: Simple Read");

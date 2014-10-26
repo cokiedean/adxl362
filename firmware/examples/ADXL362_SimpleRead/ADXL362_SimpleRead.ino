@@ -20,8 +20,7 @@ SCLK, MISO, MOSI, and DP 10 of Arduino
  
 */ 
 
-#include <SPI.h>
-#include <ADXL362.h>
+#include "adxl362/spark_internet_button__adxl362.h"
 
 ADXL362 xl;
 

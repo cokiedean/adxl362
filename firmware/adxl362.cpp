@@ -14,7 +14,7 @@
  by Jonathan Ruiz de Garibay
  
  */ 
-
+#include "application.h"
 #include "adxl362.h"
 
 //#define ADXL362_DEBUG

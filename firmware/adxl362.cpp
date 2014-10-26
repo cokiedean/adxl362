@@ -19,7 +19,7 @@
 
 //#define ADXL362_DEBUG
 
-int16_t slaveSelectPin = 10;
+int16_t slaveSelectPin = SS;
 
 ADXL362::ADXL362() {
 }

@@ -15,7 +15,7 @@
  
  */ 
 
-#include "adxl362/spark_internet_button__adxl362.h"
+#include "adxl362/adxl362.h"
 
 //#define ADXL362_DEBUG
 

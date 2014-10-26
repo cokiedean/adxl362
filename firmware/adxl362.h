@@ -13,7 +13,9 @@
  Modified May 2013
  by Jonathan Ruiz de Garibay
 
- Begin of port to Spark Core by Gregory Fenton
+ Converted for Spark Core/Spark Internet Button by Gregory Fenton
+ http://labby.co.uk
+
  */ 
 
 #ifndef ADXL362_h

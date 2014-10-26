@@ -16,8 +16,6 @@
  Begin of port to Spark Core by Gregory Fenton
  */ 
 
-#include "Arduino.h"
-
 #ifndef ADXL362_h
 #define ADXL362_h
 

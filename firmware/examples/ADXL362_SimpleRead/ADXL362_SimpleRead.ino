@@ -17,6 +17,9 @@
 Connect SCLK, MISO, MOSI, and CSB of ADXL362 to
 SCLK, MISO, MOSI, and DP 10 of Arduino 
 (check http://arduino.cc/en/Reference/SPI for details)
+
+Converted for Spark Core/Spark Internet Button by Gregory Fenton
+http://labby.co.uk
  
 */ 
 

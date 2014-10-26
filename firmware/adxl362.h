@@ -19,6 +19,8 @@
 #ifndef ADXL362_h
 #define ADXL362_h
 
+#include "application.h"
+
 class ADXL362
 {
 public:

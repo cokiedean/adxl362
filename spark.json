@@ -1,0 +1,8 @@
+{
+  "name": "spark_internet_button__adxl362",
+  "author": "Gregoryfenton",
+  "license": "CC-BY-SA-3.0",
+  "version": "0.0.0.1",
+  "description": "adxl362 accelerometer for Spark Internet Button",
+  "namespace": "spark_internet_button__adxl362"
+}

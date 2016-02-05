@@ -20,7 +20,7 @@
 #include "application.h"
 #include "adxl362.h"
 
-//#define ADXL362_DEBUG
+#define ADXL362_DEBUG
 
 int16_t slaveSelectPin = SS;
 
